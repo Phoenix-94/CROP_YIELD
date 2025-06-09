@@ -12,17 +12,7 @@ This project is built using:
 - **Vite** as the build tool
 - **Tailwind CSS** for styling
 
-## 📦 Installation
-
-Clone the repository and install dependencies:
-
-```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd project
-npm install
-npm run dev
-
-Open http://localhost:5173 in your browser to view the app.
+  Open http://localhost:5173 in your browser to view the app.
 
 **Features:**
 Interactive dashboard UI
@@ -42,3 +32,15 @@ project/
 ├── package.json
 ├── tailwind.config.js
 ├── vite.config.ts
+
+
+## 📦 Installation
+
+Clone the repository and install dependencies:
+
+```bash
+git clone https://github.com/yourusername/your-repo-name.git
+cd project
+npm install
+npm run dev
+
