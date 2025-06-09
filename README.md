@@ -1,10 +1,10 @@
 # CROP_YIELD
-# 🚀 Project Name <!-- Fill this -->
+# Project Name <!-- Fill this -->
 
 _A brief, engaging one-liner about your project._  
-> Example: A real-time dashboard to monitor and visualize data metrics across India.
+> Example: A real-time dashboard to monitor and visualize Crop Yield data metrics across India.
 
-## 📁 Project Structure
+## Project Structure
 
 This project is built using:
 
